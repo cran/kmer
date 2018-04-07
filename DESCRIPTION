@@ -2,7 +2,7 @@ Package: kmer
 Type: Package
 Title: Fast K-Mer Counting and Clustering for Biological Sequence
         Analysis
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: person("Shaun", "Wilkinson", role = c("aut", "cre"),
                      email = "shaunpwilkinson@gmail.com")
 Author: Shaun Wilkinson [aut, cre]
@@ -24,6 +24,6 @@ LinkingTo: Rcpp
 VignetteBuilder: knitr
 RoxygenNote: 6.0.1
 NeedsCompilation: yes
-Packaged: 2018-03-16 03:01:17 UTC; shaun
+Packaged: 2018-04-07 03:38:27 UTC; shaun
 Repository: CRAN
-Date/Publication: 2018-03-16 04:28:23 UTC
+Date/Publication: 2018-04-07 04:53:07 UTC
