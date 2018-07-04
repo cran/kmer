@@ -40,7 +40,7 @@ library("kmer")
 
 ### Help
 
-An overview of the package and it's functions can be found by running
+An overview of the package and its functions can be found by running
 ```R
 ?kmer
 ```
