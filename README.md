@@ -1,6 +1,8 @@
 # kmer
 
+
 --------------------------------------------------------------------------------
+
 K-mer counting and clustering for biological sequence analysis  
 
 `kmer` is an R package for rapidly computing distance matrices and 
